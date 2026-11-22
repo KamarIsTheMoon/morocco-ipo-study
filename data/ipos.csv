@@ -1,0 +1,13 @@
+ticker,company,sector,ipo_date,ipo_price_mad,amount_raised_mad_m,oversubscription_x,satisfaction_rate,source
+AFM,AFMA,Insurance brokerage,2015-12-15,720,180,,0.142,Boursenews 2022
+IMO,Immorente Invest,Real estate,2018-05-11,100,400,,0.7139,Boursenews 2022
+MUT,Mutandis,Food & consumer,2018-12-18,180,400,,0.3999,Boursenews 2022
+ARD,Aradei Capital,Real estate,2020-12-14,400,600,,0.2301,Boursenews 2022
+TGC,TGCC,Construction,2021-12-16,136,600,22,,Boursenews 2022 (price); FNH 2025 (oversubscription)
+DST,Disty Technologies,Technology,2022-07-20,284,171.7,1.34,0.7464,Boursenews 2022 (price); FNH 2025 (oversubscription)
+AKT,Akdital,Healthcare,2022-12-14,300,1200,29,0.2653,Boursenews 2022 (price); FNH 2025 (oversubscription)
+CFG,CFG Bank,Banking,2023-12-01,,600,35,,FNH 2025 (month only; IPO price to collect)
+CMG,CMGP Group,Agriculture,2024-12-01,200,1100,37,,Dalil Finance (price; month only); FNH 2025 (amount and oversubscription; FNH dates it March 2024)
+CAP,Cash Plus,Fintech,2025-11-01,200,750,64,,Dalil Finance (secondary; month only)
+GTM,SGTM,Construction,2025-12-16,420,5040,,,Le Matin 2025 (expected listing date; amount is the maximum offered)
+T2S,T2S Group,Healthcare technology,2026-07-17,223,1100,,,Alpha Bourse 2026 (end of subscription; amount is the maximum offered)
